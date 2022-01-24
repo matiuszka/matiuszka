@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello  👋
 
-<!--
-**matiuszka/matiuszka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer from Częstochowa, Poland. Mainly interested in Python-related technologies like web frameworks.
+I am also a huge fan of open source projects, so I try to collaborate more and more, if you have something interesting let me know :mailbox:.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stack:
+- 🐍 Python
+- 🕸️ Backend Frameworks (FastAPI, Django, Flask, Pyramid)
+- :sparkler: Frontend Frameworks (Vue, React, Angular)
+- 🐟 Docker
+- 💻 Linux
+- :wrench: Ansible
