@@ -5,8 +5,8 @@ I am also a huge fan of open source projects, so I try to collaborate more and m
 
 Stack:
 - 🐍 Python
-- 🕸️ Backend Frameworks (FastAPI, Django, Flask, Pyramid)
-- :sparkler: Frontend Frameworks (Vue, React, Angular)
+- 🕸️ Backend Frameworks (FastAPI, Django, Pyramid, Flask(basic))
+- :sparkler: Frontend Frameworks (Vue, React, Angular(basic))
 - 🐟 Docker
 - 💻 Linux
 - :wrench: Ansible
