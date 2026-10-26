@@ -1,9 +1,9 @@
-### Hello  👋
+### Hi, I'm Mateusz 👋
 
-I am a software developer based in Częstochowa, Poland, with a focus on backend development and building data processing pipelines for Big Data and AI purposes. I specialize in Python-related technologies and web frameworks, and I am trying to be an active contributor to the Open Source community.
+I'm a software engineer based in Częstochowa, Poland. I build backend services, APIs and data pipelines that connect software, data and devices. Python is my main language; I also work with Rust and TypeScript.
 
-Throughout my professional journey, my main responsibilities have revolved around backend development. I have gained extensive experience in designing and building robust API systems and data processing pipelines, particularly in the domains of Big Data and AI. I enjoy working with large-scale data and leveraging advanced analytics techniques to extract valuable insights.
+Since 2016, I've worked on network automation, scientific data-processing platforms and cloud-based automotive test systems. My experience includes Docker and Kubernetes, computational workloads on HPC clusters, and scheduling and monitoring tests across HIL and SIL infrastructure.
 
-With a strong emphasis on problem-solving, I find satisfaction in diving into complex challenges that involve protocols and system intricacies. I continuously seek innovative solutions and stay up-to-date with the latest industry trends.
+I enjoy understanding protocols, tracing problems across system boundaries and building the missing pieces. My background in mechatronics and embedded C/C++ helps me work across software and hardware. I've also built web interfaces with Vue, React and Angular.
 
-While backend development is my primary area of expertise, I also have some experience in developing user interfaces using popular frameworks like Vue, React, or Angular. Although this may not be my strongest skill set, I strive to deliver functional and user-friendly UI components.
+Outside my day job, I work on personal software and hardware projects and contribute to open source. You'll find some of that work in the repositories below.
